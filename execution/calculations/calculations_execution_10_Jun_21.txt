@@ -1,0 +1,36 @@
+iteration1/
+
+Results for Totalset without BERT: {'p': 73.62, 'r': 65.46, 'f1': 69.3}
+Results for Trainset without BERT: {'p': 82.91, 'r': 56.89, 'f1': 67.48}
+Results for Testset without BERT: {'p': 71.66, 'r': 67.96, 'f1': 69.76}
+Results for Totalset with BERT: {'p': 81.62, 'r': 73.08, 'f1': 77.11}
+Results for Trainset with BERT: {'p': 82.95, 'r': 57.43, 'f1': 67.87}
+Results for Testset with BERT: {'p': 81.34, 'r': 77.65, 'f1': 79.45}
+
+iteration2/
+
+Results for Totalset without BERT: {'p': 72.65, 'r': 54.64, 'f1': 62.37}
+Results for Trainset without BERT: {'p': 79.23, 'r': 49.08, 'f1': 60.61}
+Results for Testset without BERT: {'p': 71.23, 'r': 56.17, 'f1': 62.81}
+Results for Totalset with BERT: {'p': 80.68, 'r': 77.86, 'f1': 79.25}
+Results for Trainset with BERT: {'p': 80.14, 'r': 53.56, 'f1': 64.21}
+Results for Testset with BERT: {'p': 80.77, 'r': 84.53, 'f1': 82.61}
+
+iteration3/
+
+Results for Totalset without BERT: {'p': 73.92, 'r': 59.48, 'f1': 65.92}
+Results for Trainset without BERT: {'p': 80.83, 'r': 51.49, 'f1': 62.9}
+Results for Testset without BERT: {'p': 72.51, 'r': 61.65, 'f1': 66.64}
+Results for Totalset with BERT: {'p': 81.76, 'r': 78.55, 'f1': 80.12}
+Results for Trainset with BERT: {'p': 80.98, 'r': 51.65, 'f1': 63.07}
+Results for Testset with BERT: {'p': 81.89, 'r': 85.88, 'f1': 83.84}
+
+iteration4/
+
+Results for Totalset without BERT: {'p': 73.36, 'r': 60.49, 'f1': 66.31}
+Results for Trainset without BERT: {'p': 80.93, 'r': 51.69, 'f1': 63.09}
+Results for Testset without BERT: {'p': 71.86, 'r': 62.88, 'f1': 67.07}
+Results for Totalset with BERT: {'p': 83.02, 'r': 78.69, 'f1': 80.79}
+Results for Trainset with BERT: {'p': 81.08, 'r': 51.85, 'f1': 63.26}
+Results for Testset with BERT: {'p': 83.34, 'r': 85.96, 'f1': 84.63}
+
