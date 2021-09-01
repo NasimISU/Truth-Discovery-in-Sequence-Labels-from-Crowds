@@ -1,5 +1,5 @@
 <html>
-<head>Truth Discovery in Sequential Labels from Crowd</head>
+<head>This is the repository for the paper: Truth Discovery in Sequential Labels from Crowds</head>
 
 <h2> Requirements </h2>
  <ul>
