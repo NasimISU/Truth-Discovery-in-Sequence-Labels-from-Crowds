@@ -74,7 +74,7 @@ NOTE 2: PICO results can be reproduced by executing the scripts on PICO dataset.
 NOTE 3: We have provided the execution run results for each iteration in execution/calculations folder.
 
 <h2>References</h2>
- @INPROCEEDINGS{9679072,
+ <li>{@INPROCEEDINGS{9679072,
   author={Sabetpour, Nasim and Kulkarni, Adithya and Xie, Sihong and Li, Qi},
   booktitle={2021 IEEE International Conference on Data Mining (ICDM)}, 
   title={Truth Discovery in Sequence Labels from Crowds}, 
@@ -82,7 +82,7 @@ NOTE 3: We have provided the execution run results for each iteration in executi
   volume={},
   number={},
   pages={539-548},
-  doi={10.1109/ICDM51629.2021.00065}}
+  doi={10.1109/ICDM51629.2021.00065}}}<li>
 <ol> <li>CRF-MA: 
 @article{rodrigues2014sequence,
   title={Sequence labeling with multiple annotators},
