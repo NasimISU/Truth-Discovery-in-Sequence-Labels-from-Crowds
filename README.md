@@ -92,7 +92,7 @@ NOTE 3: We have provided the execution run results for each iteration in executi
   year={2021},
   pages={539-548},
   doi={10.1109/ICDM51629.2021.00065}
-  }<li>
+  }</li>
 <li>DL-CL: @inproceedings{rodrigues2018deep,
   title={Deep learning from crowds},
   author={Rodrigues, Filipe and Pereira, Francisco C},
