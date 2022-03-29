@@ -86,7 +86,7 @@ NOTE 3: We have provided the execution run results for each iteration in executi
   publisher={Springer}
 }</li>
  
- <li>{@INPROCEEDINGS{9679072,
+ <li>AggSLC: {@INPROCEEDINGS{9679072,
   author={Sabetpour, Nasim and Kulkarni, Adithya and Xie, Sihong and Li, Qi},
   booktitle={2021 IEEE International Conference on Data Mining (ICDM)}, 
   title={Truth Discovery in Sequence Labels from Crowds}, 
