@@ -74,15 +74,6 @@ NOTE 2: PICO results can be reproduced by executing the scripts on PICO dataset.
 NOTE 3: We have provided the execution run results for each iteration in execution/calculations folder.
 
 <h2>References</h2>
- <li>{@INPROCEEDINGS{9679072,
-  author={Sabetpour, Nasim and Kulkarni, Adithya and Xie, Sihong and Li, Qi},
-  booktitle={2021 IEEE International Conference on Data Mining (ICDM)}, 
-  title={Truth Discovery in Sequence Labels from Crowds}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={539-548},
-  doi={10.1109/ICDM51629.2021.00065}}}<li>
 <ol> <li>CRF-MA: 
 @article{rodrigues2014sequence,
   title={Sequence labeling with multiple annotators},
@@ -94,12 +85,25 @@ NOTE 3: We have provided the execution run results for each iteration in executi
   year={2014},
   publisher={Springer}
 }</li>
+ 
+ <li>{@INPROCEEDINGS{9679072,
+  author={Sabetpour, Nasim and Kulkarni, Adithya and Xie, Sihong and Li, Qi},
+  booktitle={2021 IEEE International Conference on Data Mining (ICDM)}, 
+  title={Truth Discovery in Sequence Labels from Crowds}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={539-548},
+  doi={10.1109/ICDM51629.2021.00065}}
+  }<li>
+ 
 <li>DL-CL: @inproceedings{rodrigues2018deep,
   title={Deep learning from crowds},
   author={Rodrigues, Filipe and Pereira, Francisco C},
   booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},
   year={2018}
 }</li>
+ 
 <li>BERT Pre trained: @article{devlin2018bert,
   title={Bert: Pre-training of deep bidirectional transformers for language understanding},
   author={Devlin, Jacob and Chang, Ming-Wei and Lee, Kenton and Toutanova, Kristina},
@@ -107,6 +111,7 @@ NOTE 3: We have provided the execution run results for each iteration in executi
   year={2019},
   pages = {4171–4186}
 }</li>
+ 
 <li>OPTSLA: @inproceedings{sabetpour-etal-2020-optsla,
     title = "{O}pt{SLA}: an Optimization-Based Approach for Sequential Label Aggregation",
     author = "Sabetpour, Nasim  and
